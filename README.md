@@ -1,5 +1,5 @@
 English | [中文]("https://github.com/erha134/TLSCSurvivalModpack1/README_CN.md")
-# TLSCSurvivalModpack
+# TLSCSurvivalModpack For Fabric/Quilt
 This is a Minecraft Survival Modpack.
 
 I think it will be helpful for the game :P
