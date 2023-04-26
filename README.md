@@ -12,7 +12,12 @@ Thanks to use this pack!
 [Tutorials here](https://github.com/erha134/TLSCSurvivalModpack1/wiki)
 
 ### Support Version
-
+| Minecraft Version | Status     | Download                                                                                                                                                                            |
+|------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.18.x     | Support | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)                                                         |
+| 1.19.x | Support (Only 1.19.2 and 1.19.4) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)    |
+| 1.20 Snapshot   | Unstable/Support | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0-snapshot)  |
+| 1.20.x   | Dev | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)  |
 
 
 # Developement
