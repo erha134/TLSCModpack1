@@ -1,0 +1,9 @@
+#Sun Apr 23 18:27:31 CST 2023
+shadowDistance=80.0
+FOG1=false
+shadowMapResolution=256
+NETHER_FOG=false
+WATER_TYPE=2
+MIN_LIGHT=128
+REFLECTION_SPECULAR=false
+WATER_WAVES=false
