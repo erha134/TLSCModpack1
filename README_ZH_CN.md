@@ -1,4 +1,4 @@
-[English]("https://github.com/erha134/TLSCSurvivalModpack1/README.md") | 中文
+[English](https://github.com/erha134/TLSCSurvivalModpack1/README.md) | 中文
 # TLSCSurvivalModpack For Fabric/Quilt
 这是一个 Minecraft 生存模组包。
 
