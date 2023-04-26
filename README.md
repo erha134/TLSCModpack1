@@ -16,9 +16,14 @@ Thanks to use this pack!
 |------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.18.x     | Support | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)                                                         |
 | 1.19.x | Support (Only 1.19.2 and 1.19.4) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)    |
-| 1.20 Snapshot   | Unstable/Support | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0-snapshot)  |
 | 1.20.x   | Dev | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)  |
 
+### Format
+| File name with | Can be install in (Launcher Name, Except Official Launcher) / Usage     |
+-------------|---------|
+| mcbbs    | HMCL, PCL2, BakaXL, MutliMC |
+| curse | Most of Minecraft Launcher |
+| stable   | Zipped and drag the folder in your ".minecraft" folder |
 
 # Developement
 If you have any idea, you can create your fork and pull to this repo.
