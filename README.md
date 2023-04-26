@@ -28,5 +28,7 @@ Thanks to use this pack!
 # Developement
 If you have any idea, you can create your fork and pull to this repo.
 
+Version index is [Here](https://github.com/erha134/TLSCSurvivalModpack1/blob/main/version_index.json)
+
 # Thanks
 - erha134   Create This Modpack, Chinese Translater (ZH_CN)

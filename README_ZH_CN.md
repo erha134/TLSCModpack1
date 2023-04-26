@@ -26,7 +26,8 @@
 | stable   | 解压下载下来的 zip 文件，然后把解压出来的文件夹拖入你的 ".minecraft" 文件夹 |
 
 # 参与开发
-如果你有想法，你可以创建自己的分支进行开发，然后发送拉取请求到这个仓库
+如果你有想法，你可以创建自己的分支进行开发，然后发送拉取请求到这个仓库。
+版本索引在[这里](https://github.com/erha134/TLSCSurvivalModpack1/blob/main/version_index.json)
 
 # 鸣谢
 - erha134   创建本模组包，中文翻译者 (ZH_CN)
