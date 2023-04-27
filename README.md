@@ -1,4 +1,6 @@
 English | [中文](https://github.com/erha134/TLSCSurvivalModpack1/blob/main/README_ZH_CN.md)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/erha134/TLSCSurvivalModpack1/v1.0-release/total)
+
 # TLSCSurvivalModpack For Fabric/Quilt
 This is a Minecraft Survival Modpack.
 
