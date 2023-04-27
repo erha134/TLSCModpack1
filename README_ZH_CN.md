@@ -18,13 +18,6 @@
 | 1.19.x | 支持 (仅限 1.19.2 和 1.19.4) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)    |
 | 1.20.x   | 开发中 (Mojang 还没更新) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)  |
 
-### 文件名格式
-| 文件名带xxx的 | 可以被哪些启动器 (启动器名字，官方启动器除外) / 用法     |
--------------|---------|
-| mcbbs    | HMCL, PCL2, BakaXL, MutliMC |
-| curse | Most of Minecraft Launcher |
-| stable   | 解压下载下来的 zip 文件，然后把解压出来的文件夹拖入你的 ".minecraft" 文件夹 |
-
 # 参与开发
 如果你有想法，你可以创建自己的分支进行开发，然后发送拉取请求到这个仓库。
 版本索引在[这里](https://github.com/erha134/TLSCSurvivalModpack1/blob/main/version_index.json)
