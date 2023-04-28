@@ -5,10 +5,10 @@
 
 感谢你使用这个模组包！
 
-### [在这提交Bug](https://github.com/erha134/TLSCSurvivalModpack1/issues)
+### 在 Issues 页提交Bug
 
 # 安装
-[教程点我](https://github.com/erha134/TLSCSurvivalModpack1/wiki)
+### 教程在上边的 Wiki
 
 ### 支持版本
 | Minecraft 版本 | 支持状态     | 下载方式                                                                                                                                                                            |
