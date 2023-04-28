@@ -1,4 +1,4 @@
-# TLSCSurvivalModpack For Fabric/Quilt
+# TLSCSurvivalModpack For Fabric/Quilt (Client/Server)
 这是一个 Minecraft 生存模组包。
 
 我认为这对 Minecraft 的生存有所帮助 :P
