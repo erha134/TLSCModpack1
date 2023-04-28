@@ -1,4 +1,7 @@
 # TLSCSurvivalModpack For Fabric/Quilt (Client/Server)
+
+### 整合包只会保持最新正式版的更新！如果需要，请使用 ViaFabric (自带)！
+
 这是一个 Minecraft 生存模组包。
 
 我认为这对 Minecraft 的生存有所帮助 :P
