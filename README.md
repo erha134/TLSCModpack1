@@ -17,9 +17,8 @@
 | 1.19.x | 支持 (1.19.4) (可以跨版本) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)    |
 | 1.20.x   | 开发中 (Mojang 还没更新) (除了快照版) | (未发布) [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)  |
 
-# 参与开发
-如果你有想法，你可以创建自己的分支进行开发，然后发送拉取请求到这个仓库。
-版本索引在[这里](https://github.com/erha134/TLSCSurvivalModpack1/blob/main/version_index.json)
+# 打包
+你可以打包整合包发给我，创建 Fork 和 PR 也行 (只要不覆盖原来的文件)
 
 # 鸣谢
 - erha134   创建本模组包，中文翻译者 (ZH_CN)
