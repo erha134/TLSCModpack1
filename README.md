@@ -13,7 +13,7 @@
 ### 支持版本
 | Minecraft 版本 | 支持状态     | 下载方式                                                                                                                                                                            |
 |------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.18.x     | 支持 | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)                                                         |
+| 1.18.x     | 不受支持 (没时间) | 替代品 [XPlus v2.0](https://beta.mcbbs.net/resource/modpack/eerqnkj3/releases)  [大叔整合包](https://www.bilibili.com/video/BV1Ra411t76V/)  或者 其他                                                      |
 | 1.19.x | 支持 (仅限 1.19.2 和 1.19.4) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)    |
 | 1.20.x   | 开发中 (Mojang 还没更新) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)  |
 
