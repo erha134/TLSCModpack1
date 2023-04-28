@@ -13,9 +13,9 @@
 ### 支持版本
 | Minecraft 版本 | 支持状态     | 下载方式                                                                                                                                                                            |
 |------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.18.x     | 支持 | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)                                                         |
-| 1.19.x | 支持 (仅限 1.19.2 和 1.19.4) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)    |
-| 1.20.x   | 开发中 (Mojang 还没更新) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/1.0)  |
+| 1.18.x     | 支持 | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)                                                         |
+| 1.19.x | 支持 (仅限 1.19.2 和 1.19.4) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)    |
+| 1.20.x   | 开发中 (Mojang 还没更新) | [GitHub Release](https://github.com/erha134/TLSCSurvivalModpack1/releases/tag/v1.0)  |
 
 # 参与开发
 如果你有想法，你可以创建自己的分支进行开发，然后发送拉取请求到这个仓库。
