@@ -7,7 +7,7 @@
 
 ### [在这提交Bug](https://github.com/erha134/TLSCSurvivalModpack1/issues)
 
-# Install
+# 安装
 [教程点我](https://github.com/erha134/TLSCSurvivalModpack1/wiki)
 
 ### 支持版本
