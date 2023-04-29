@@ -1,4 +1,6 @@
-# TLSCSurvivalModpack For Fabric/Quilt (Client/Server)
+# TLSC Modpack For Fabric/Quilt (Client/Server)
+
+### 本分支为快照版！
 
 ### 整合包只会保持最新正式版的更新！如果需要，请使用 ViaFabric (自带)！
 
